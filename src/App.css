@@ -1,0 +1,25 @@
+
+
+.body { 
+   background-color: #6c757d13;
+}
+
+.height{
+   min-height: 900px;
+}
+
+.text{
+   text-decoration: none;
+   color: white;
+}
+
+.pie-h{
+   height: 500px;
+   border: 1px solid black;
+}
+
+.Bigpie{
+   box-shadow: 5px 5px 50px 20px rgba(0, 0, 0, 0.306);
+  border-radius: 10%;
+
+}
